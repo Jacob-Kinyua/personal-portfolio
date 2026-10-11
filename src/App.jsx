@@ -138,7 +138,7 @@ function App() {
                 </div>
               </div>
 
-              <a href="https://jacob-kinyua.github.io/weather-recommender/" className="project-link">
+              <a href="https://weatherrecom.netlify.app/" className="project-link">
                 View Project →
               </a>
             </article>
